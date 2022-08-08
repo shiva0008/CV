@@ -1,0 +1,24 @@
+body{
+    background-color: black;
+}
+
+table{
+    margin: auto;
+    color: darkgray;
+}
+
+h2{
+    text-align: center;
+    color: cornflowerblue;
+}
+
+ul{
+    display: table;
+    margin: auto;
+    color: cornflowerblue;
+}
+
+a{
+    color: chocolate;
+}
+
